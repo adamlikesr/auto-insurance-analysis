@@ -38,6 +38,9 @@ Some key variables include:
 | gender | Driver gender |
 | area | Geographic area |
 
+**Link to Data:**
+https://www.rdocumentation.org/packages/insuranceData/versions/1.0/topics/dataCar
+
 ## Methodology
 
 ### 1. Cleaning Data and Performing Exploratory Data Analaysis
